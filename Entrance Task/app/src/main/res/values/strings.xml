@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Entrance Task</string>
+    <string name="message_hint">Print something here</string>
+    <string name="printButton">Print message</string>
+    <string name="colorChangeButton">Change background color</string>
+</resources>
